@@ -1,5 +1,5 @@
 # 帮助教程
-1 2 3 4 5 6 7 8
+1 2 3 4 5 6 7 8 9
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
